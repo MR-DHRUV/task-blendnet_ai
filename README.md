@@ -1,4 +1,4 @@
-# Stockify - Stock Monitoring Platform
+# Stockify - Stock Monitoring Platform [Demo Link](https://task-blendnet-ai.vercel.app/)
 
 ## Backend
 ### Authentication
