@@ -32,4 +32,9 @@ Simple CRUD operations are implemented for stock monitoring.
 
 ## Frontend
 The frontend is built using React.js, Typescript and Material UI. It is a simple web application that allows users to monitor their stocks, view trends and maintain a watchlist.
+
+<strong>
+Please note that Alpha Vantage API only provides 25 api calls each day, so it may be the case that the API is exhausted and as a result,  you will see same data for all stocks.
+</strong>
+
 ![alt text](image.png)
